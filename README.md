@@ -9,7 +9,6 @@ Author- Nikita Pant
 * Withdraw money from the account.
 * Display denominations for deposited and withdrawn amounts.
 * Handle insufficient balance scenarios
-* 
 <br>
 
 ### **Technologies used:**
