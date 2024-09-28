@@ -2,9 +2,8 @@
 An interactive ATM simulation that allows users to deposit and withdraw money while displaying the denominations of notes used in each transaction. This project demonstrates basic banking operations with an emphasis on user input handling and recursive calculations.
 <br>
 Author- Nikita Pant
-
 <br>
-**Features **
+**Features**
 * Deposit money into the account.
 * Withdraw money from the account.
 * Display denominations for deposited and withdrawn amounts.
