@@ -28,3 +28,12 @@ Author- Nikita Pant
 * Press 1 to deposit money.
 * Press 2 to withdraw money.
 * Press 3 to exit the application.
+
+### **Contributing:**
+Feel free to fork the repository and submit pull requests for any improvements or features.
+
+### **Acknowledgements:**
+Inspired by basic ATM operations and user interface design.
+
+### **P.S:**
+This is my very first DSA project , I look forward to getting better , learning and making advances projects in the coming future.
