@@ -11,13 +11,16 @@ Author- Nikita Pant
 * Handle insufficient balance scenarios
 <br>
 
-### **Technologies used:**
 
-* Java: The primary programming language used for the implementation.
-* Java Collections: For managing denominations and user input.
+### **Technologies Used:**
+- **Java:** The primary programming language used to develop the ATM machine project.
+- **Visual Studio Code:** The code editor used for writing and debugging the Java code.
+- **Git:** Version control system used for managing the project repository.
+- **GitHub:** Platform used for hosting the project and collaborating with others.
+
 
 ### **How to run:**
-1.### **How to Run:**
+
 1. **Clone the repository:**
    To download the project to your local machine, use the following command:
    ```bash
