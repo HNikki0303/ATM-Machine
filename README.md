@@ -10,7 +10,8 @@ Author- Nikita Pant
 * Display denominations for deposited and withdrawn amounts.
 * Handle insufficient balance scenarios
 <br>
-#### **Technologies Used:**
+
+####**Technologies Used:**
 
 * Java: The primary programming language used for the implementation.
 * Java Collections: For managing denominations and user input.
