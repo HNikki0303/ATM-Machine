@@ -9,6 +9,7 @@ Author- Nikita Pant
 * Withdraw money from the account.
 * Display denominations for deposited and withdrawn amounts.
 * Handle insufficient balance scenarios
+* 
 <br>
 
 ### **Technologies used:**
@@ -20,5 +21,11 @@ Author- Nikita Pant
 1. Clone the repository:
    git clone <https://github.com/HNikki0303/ATM-Machine/blob/main/README.md>
 2. Navigate to the project directory:
-3.Compile the Java program:
-4.Run the program:
+3. Compile the Java program:
+4. Run the program:
+
+### **Instructions:**
+
+* Press 1 to deposit money.
+* Press 2 to withdraw money.
+* Press 3 to exit the application.
