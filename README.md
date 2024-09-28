@@ -15,3 +15,5 @@ Author- Nikita Pant
 
 * Java: The primary programming language used for the implementation.
 * Java Collections: For managing denominations and user input.
+
+### **How to run:**
