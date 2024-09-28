@@ -12,7 +12,7 @@ Author- Nikita Pant
 <br>
 
 
-### **Technologies Used:**
+### **Technologies and Tools Used:**
 - **Java:** The primary programming language used to develop the ATM machine project.
 - **Visual Studio Code:** The code editor used for writing and debugging the Java code.
 - **Git:** Version control system used for managing the project repository.
