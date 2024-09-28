@@ -23,10 +23,21 @@ Author- Nikita Pant
    ```bash
    git clone https://github.com/HNikki0303/ATM-Machine.git
 
-2. Navigate to the project directory:```bash cd atm-machine
+2. **Navigate to the project directory:**
+   Change your current working directory to the project folder using the following command:
+   ```bash
+   cd ATM-Machine
 
-3. Compile the Java program:
-4. Run the program:
+3. **Compile the Java program:**
+   Compile the `ATM.java` file using the Java compiler with the following command:
+   ```bash
+   javac ATM.java
+
+4. **Run the program:**
+   Execute the compiled Java program with the following command:
+   ```bash
+   java ATM
+
 
 ### **Instructions:**
 
