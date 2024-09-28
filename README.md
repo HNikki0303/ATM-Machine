@@ -21,7 +21,9 @@ Author- Nikita Pant
    git clone <https://github.com/HNikki0303/ATM-Machine/edit/main/README.md>
 2. Navigate to the project directory:
    cd atm-machine
+   
 3.Compile the Java program:
    javac ATM.java
+   
 4.Run the program:
    java ATM
