@@ -19,7 +19,8 @@ Author- Nikita Pant
 ### **How to run:**
 1. Clone the repository:
    git clone <https://github.com/HNikki0303/ATM-Machine/blob/main/README.md>
-2. Navigate to the project directory:
+2. Navigate to the project directory:```bash cd atm-machine
+
 3. Compile the Java program:
 4. Run the program:
 
