@@ -17,8 +17,12 @@ Author- Nikita Pant
 * Java Collections: For managing denominations and user input.
 
 ### **How to run:**
-1. Clone the repository:
-   git clone <https://github.com/HNikki0303/ATM-Machine/blob/main/README.md>
+1.### **How to Run:**
+1. **Clone the repository:**
+   To download the project to your local machine, use the following command:
+   ```bash
+   git clone https://github.com/HNikki0303/ATM-Machine.git
+
 2. Navigate to the project directory:```bash cd atm-machine
 
 3. Compile the Java program:
