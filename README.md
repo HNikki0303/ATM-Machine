@@ -11,7 +11,7 @@ Author- Nikita Pant
 * Handle insufficient balance scenarios
 <br>
 
-####**Technologies Used:**
+#### **Technologies used:**
 
 * Java: The primary programming language used for the implementation.
 * Java Collections: For managing denominations and user input.
