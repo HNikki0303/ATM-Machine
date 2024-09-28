@@ -4,7 +4,7 @@ An interactive ATM simulation that allows users to deposit and withdraw money wh
 Author- Nikita Pant
 
 <br>
-**Features:**
+**Features **
 * Deposit money into the account.
 * Withdraw money from the account.
 * Display denominations for deposited and withdrawn amounts.
