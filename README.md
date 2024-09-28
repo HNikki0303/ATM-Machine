@@ -3,14 +3,14 @@ An interactive ATM simulation that allows users to deposit and withdraw money wh
 <br>
 Author- Nikita Pant
 <br>
-###### Heading 6
-**Features:**
+#### **Features:**
+
 * Deposit money into the account.
 * Withdraw money from the account.
 * Display denominations for deposited and withdrawn amounts.
 * Handle insufficient balance scenarios
 <br>
-###### Heading 6
-**Technologies Used:**
+#### **Technologies Used:**
+
 * Java: The primary programming language used for the implementation.
 * Java Collections: For managing denominations and user input.
