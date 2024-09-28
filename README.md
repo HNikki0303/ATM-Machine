@@ -2,6 +2,7 @@
 An interactive ATM simulation that allows users to deposit and withdraw money while displaying the denominations of notes used in each transaction. This project demonstrates basic banking operations with an emphasis on user input handling and recursive calculations.
 <br>
 Author- Nikita Pant
+
 <br>
 **Features:**
 * Deposit money into the account.
@@ -9,6 +10,6 @@ Author- Nikita Pant
 * Display denominations for deposited and withdrawn amounts.
 * Handle insufficient balance scenarios
 <br>
-****Technologies Used**: **
+**Technologies Used:**
 * Java: The primary programming language used for the implementation.
 * Java Collections: For managing denominations and user input.
